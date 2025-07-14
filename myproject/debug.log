@@ -1,0 +1,5 @@
+INFO 2025-07-14 14:18:31,868 autoreload Watching for file changes with StatReloader
+INFO 2025-07-14 14:26:41,543 autoreload Watching for file changes with StatReloader
+INFO 2025-07-14 14:32:38,395 autoreload Watching for file changes with StatReloader
+WARNING 2025-07-14 14:32:41,680 log Not Found: /
+WARNING 2025-07-14 14:32:41,681 basehttp "GET / HTTP/1.1" 404 5394
